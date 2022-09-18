@@ -24,10 +24,15 @@ Para ver a página na web, clique [aqui](https://deivisondelmiro.github.io/proje
 
 ## 🖋️ Aprendizados
 Muitos aprendizados para o tamanho da aplicação, dentre eles alguns:
+
 Media Queries (responsividade)
+
 Implementação de vídeo de plataformas como youtube e/ou vimeo
+
 Listas ordenadas e não ordenadas
+
 Efeitos de transições de elementos
+
 Uso de fontes importadas e configurações relacionadas
 
 ## 📞 Contato
